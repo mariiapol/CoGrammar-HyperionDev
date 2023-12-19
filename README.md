@@ -1,5 +1,5 @@
 # CoGrammar-HyperionDev
-Skills Bootcamp in Data Science (Fundamentals)
+My solutions from Skills Bootcamp in Data Science (Fundamentals)
 
 
 Main focus areas:
