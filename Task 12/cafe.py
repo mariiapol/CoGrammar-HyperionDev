@@ -8,14 +8,14 @@ The print command apparently attempts to encode the string you gave to it into t
 and fails because the £ (pound sign) is not part of that set (while the dollar sign $ is).
 '''
 # Prices for each item are in the menu.
-price_menu = ["\u00a33.5", "\u00a32.5", "\u00a34", "\u00a35", "\u00a31.75"]
+price_menu = ["3.5", "2.5", "4", "5", "1.75"]
 
 # Total stock worth in the cafe.
 total_stock = 0
 
 # Use dictionary comprehension for creating new dictionaries.
 stock = {menu[i]:stock_menu[i] for i in range(len(menu))}
-price = {menu[i]:float(price_menu[i] .replace("\u00a3","")) for i in range(len(menu))}
+price = {menu[i]:float(price_menu[i]) for i in range(len(menu))}
 
 for item in menu:
     # Calculation of each item value.
