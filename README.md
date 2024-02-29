@@ -1,14 +1,14 @@
-## CoGrammar-HyperionDev
+# CoGrammar-HyperionDev
 
-My solutions from Skills Bootcamp in Data Science (Fundamentals)
+My solutions from Skills Bootcamp in Data Science.
 
-# Main focus areas:
+## Main focus areas:
 
 ▸ Coding in Python (+ libraries),
    Machine Learning models 
    and more
 
-# Also includes:
+## Also includes:
 
 ▸ Natural Language Processing (NLP)
 
@@ -16,13 +16,21 @@ My solutions from Skills Bootcamp in Data Science (Fundamentals)
 
 ▸ Variables, functions and more
 
+## Data Science Tasks:
 Task 1 - Your First Computer Program and Using Variables
+
 Task 2 - The String and Numerical Data Type
+
 Task 3 - Control Structures - If, Elif, Else and the Boolean Data type	
+
 Task 4 - Logical Programming - Operators
+
 Task 5 - Capstone Project - Variables and Control Structures
+
 Task 6 - Build Your Brand 01 - Career Goals
+
 Task 7 - Control Structures - While Loop
+
 Task 8 - Control Structures - For Loops	
 Task 9 - Defensive Programming - Error Handling
 Task 11 - String Handling	
